@@ -5,6 +5,7 @@ Estos son los archivos que se mostraron en la presentación, puedes usar tu IDE 
 ## Uso
 
 El código es vulnerable, para poder explotar sus vulnerabilidades hay comentarios en la parte de abajo para poder recrear el ejercicio.
+Deberías intentar correrlos con permisos de administrador o superusuario en Linux para apreciar mejor el ejemplo.
 
 
 ### C
