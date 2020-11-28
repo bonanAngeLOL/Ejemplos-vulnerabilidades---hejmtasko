@@ -30,3 +30,14 @@ Hay comentarios el final que muestran las URL que deben ser probadas para replic
 ```PHP
 //Run:http://[dirección de tu servidor]/[archivo]?parametro=valor...
 ```
+
+### VIM
+
+El archivo .vimrc tiene las configuraciónes de VIM que se usaron para la presentación.
+Se puede importar el archivo al usar VIM
+
+```Bash
+vim -u /path/to/file/.vimrc
+```
+
+Permite subrayar texto presionando `CTRL+l` y correr los programas de C con `<F8>`, para correr con los argumentos del caso de uso se debe poner el puntero encima del comentario con los argumentos (`//Arguments:...`)
